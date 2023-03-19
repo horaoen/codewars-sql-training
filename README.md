@@ -9,3 +9,6 @@ codewars sql training
 - 2023/3/17 ([answer](./src/2023-3-17.sql))
   - [simple in](https://www.codewars.com/kata/58113c03009b4fcc66000d29/train/sql)
   - [absolute value and log to base](https://www.codewars.com/kata/594a8f2f7ca3c692a4000041/train/sql)
+
+- 2023/3/19
+  - [SQL Basics: Simple JOIN and RANK](https://www.codewars.com/kata/58094559c47d323ebd000035/train/sql)
